@@ -1,0 +1,38 @@
+.card-container {
+    border: 1px solid rgb(231, 231, 231);
+    margin: auto;
+    position: relative;
+    box-shadow: 2px 2px 0 0 rgb(182, 182, 182);
+    border-radius: 5px;
+    background-color: #fafafa;
+    width: 75%;
+    height: 100%;
+}
+
+.form-container {
+    position: relative;
+    width:45%;
+    height:39em;
+    margin:10em auto;
+}
+
+.content-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.btn {
+    width: 8em;
+}
